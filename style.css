@@ -152,10 +152,5 @@ body {
 
 .container__botao:hover{
     background-color: var(--botao-azul-efeito);
-}
-
-
-.descricao__texto {
-    color: var(--cinza-secundario);
-
+    color: var(--cor-de-fundo);
 }
